@@ -13,4 +13,4 @@ In conclusion, SIEM is an essential tool in modern cybersecurity that helps orga
 
  
 
-<img width="471" height="445" alt="image" src="https://github.com/user-attachments/assets/aec479fd-e993-4ebc-960f-d7c2b204701c" />
+<img width="701" height="585" alt="SIEM" src="https://github.com/user-attachments/assets/f01bf3ac-ce7c-401f-9e66-4c5c1b6453ae" />
